@@ -1,0 +1,2 @@
+# techspot
+For Technical Spot
