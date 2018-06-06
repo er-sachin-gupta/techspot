@@ -5909,5 +5909,10 @@ section.COUNTERS__AREA::before {
 .cleaning_demo .default-blog-news .img-holder .overlay .box .content a i {
   background: #63c672 none repeat scroll 0 0;
 }
-
+.mr-5{
+  margin-right: 5px;
+}
+.navcolor{
+  color: #337ab7;
+}
 /* <-=- THE END ALL RIGHT OF TEAM90DEGREE -=->  */
