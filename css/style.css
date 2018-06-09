@@ -5529,10 +5529,11 @@ ul.gallery-filter li span {
   padding-top: 81px;
 }
 .brand-logo .brand-carousel li a img {
-  border: 1px solid rgba(0, 0, 0, 0.08);
+  /*border: 1px solid rgba(0, 0, 0, 0.08);*/
   border-radius: 2px;
   margin-bottom: 20px;
-  opacity: 0.6;
+  /*opacity: 0.6;*/
+  opacity: 0.8;
   transition: all 100ms ease-out 0s;
 }
 .brand-logo .brand-carousel li:hover a  img{
