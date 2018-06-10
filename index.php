@@ -126,6 +126,7 @@
     <?php include 'includes/our-services.php'; ?>
     <!--  Our Services Area Ends -->
 
+    <!--  Postal info Area Starts -->
     <div class="process-area">
         <div class="container-fluid">
             <div class="row">
@@ -168,6 +169,7 @@
             </div>
         </div>
     </div>
+    <!--  Postal info Area Ends -->
 
     <!-- Testimonials Area Starts -->
     <?php include 'includes/testimonials.php'; ?>
