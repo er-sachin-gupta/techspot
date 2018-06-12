@@ -75,7 +75,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-3">
-                    <p class="copyright"><a href="http://www.techspot.ca">Techspot.ca</a>. &copy; 2011 - 2018. All Rights Reserved.</p>
+                    <p class="copyright"><a href="http://www.techspot.ca">Techspot.ca</a>. &copy; 2011 - <?php echo date("Y");?>. All Rights Reserved.</p>
                 </div>
                 <div class="col-md-9">
                     <nav class="footer-menu pull-right">
@@ -83,7 +83,7 @@
                             <li><a href="index.php">Home</a></li>
                             <li><a href="services.php">Services</a> </li>
                             <li><a href="products.php">Products</a> </li>
-                            <li><a href="discliamer-and-return-policies.php">Disclaimer &amp; Return</a></li>
+                            <li><a href="disclaimer-and-return-policies.php">Disclaimer &amp; Return</a></li>
                             <li><a href="contact-us.php">Contact</a></li>
                         </ul>
                     </nav>

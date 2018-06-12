@@ -50,9 +50,9 @@
     <?php include 'includes/mainmenu.php'; ?>
     <!--End mainmenu area-->
 
-    <!-- Hero Area Start -->
+    <!-- Hero Slider Area Start -->
     <?php include 'includes/slider.php'; ?>
-    <!-- Hero Area End -->
+    <!-- Hero Slider Area End -->
 
     <!-- Why Choose Us Area Start -->
     <?php include 'includes/why-choose-us.php'; ?>
