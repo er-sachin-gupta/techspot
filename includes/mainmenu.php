@@ -40,8 +40,8 @@
                     <div class="nav_side_content">
                         <div class="search_option">
                             <button class="search tran3s dropdown-toggle color1_bg" id="searchDropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><i class="fa fa-search" aria-hidden="true"></i></button>
-                            <form action="#" class="dropdown-menu" aria-labelledby="searchDropdown">
-                                <input type="text" placeholder="Search...">
+                            <form action="../searchresults.php" method="get" class="dropdown-menu" aria-labelledby="searchDropdown">
+                                <input type="text" value="" name="q" id="q"  placeholder="Search...">
                                 <button><i class="fa fa-search" aria-hidden="true"></i></button>
                             </form>
                         </div>
