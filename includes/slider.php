@@ -2,7 +2,7 @@
     <!-- Hero Slider -->
     <div id="hero-slider" class="nivoSlider">
         <img src="images/slider/slider-1.jpg" alt="" title="#herocaption-1" />
-        <img src="images/slider/slider-3.jpg" alt="" title="#herocaption-2" />
+        <img src="images/slider/slider-4.jpg" alt="" title="#herocaption-2" />
         <img src="images/slider/slider-2.jpg" alt="" title="#herocaption-3" />
     </div>
     <!-- Hero Slider Caption -->

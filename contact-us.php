@@ -122,8 +122,8 @@
                                 <div class="text-holder">
                                     <h6>45 Overlea Blvd.</h6>
                                     <h6>Unit #122, East York </h6>
-                                    <h6>Town Center, Toronto</h6>
-                                    <h6>Ontario, Canada M4H 1C3</h6>
+                                    <h6>Town Centre, Toronto</h6>
+                                    <h6>Ontario M4H 1C3, Canada</h6>
                                 </div>
                             </li>
                             <li>
@@ -131,8 +131,8 @@
                                     <span class="icon-technology-1"></span>
                                 </div>
                                 <div class="text-holder">
-                                    <h6>416-892-7778</h6>
-                                    <h6>647-717-1432</h6>
+                                    <h6>416.892.77.78</h6>
+                                    <h6>647.964.3.786, 647.977.3.786</h6>
                                 </div>
                             </li>
                             <li>
@@ -141,7 +141,7 @@
                                 </div>
                                 <div class="text-holder">
                                     <h6>Send FAX @</h6>
-                                    <p>647-977-3786</p>
+                                    <p>647.351.3.786</p>
                                 </div>
                             </li>
                             <li>
@@ -150,7 +150,7 @@
                                 </div>
                                 <div class="text-holder">
                                     <h6>Mail Us @</h6>
-                                    <a href="mailto:aziz@techspot.ca"><p>aziz@techspot.ca</p></a>
+                                    <a href="mailto:info@techspot.ca"><p>info@techspot.ca</p></a>
                                 </div>
                             </li>
                         </ul>

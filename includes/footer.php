@@ -6,11 +6,11 @@
                 <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
                     <div class="footer-col">
                         <div class="logo-part">
-                            <a href="indexscratch.html" class="footer-logo text-uppercase">
+                            <a href="index.php" class="footer-logo text-uppercase">
                                 <img src="images/logow.png" alt="logo">
                             </a>
                         </div>
-                        <p class="footer-words">We are located in <strong>EAST YORK TOWN CENTER</strong>. You can find us on your way from Food Basics to Canada Trust.</p>
+                        <p class="footer-words">We are located in <strong>EAST YORK TOWN CENTRE</strong>. You can find us on your way from Food Basics to Canada Trust.</p>
                         <ul class="list-inline footer-social">
                             <li><a href="#"><i class="fa fa-facebook"></i></a></li>
                             <li><a href="#"><i class="fa fa-twitter"></i></a></li>
@@ -30,6 +30,7 @@
                             <li><a href="#">Parts Upgrades</a></li>
                             <li><a href="#">Tune Ups</a></li>
                             <li><a href="#">Toner and Ink Refill</a></li>
+                            <li><a href="#">Web Design and Development</a> </li>
                         </ul>
                     </div>
                 </div>
@@ -56,14 +57,14 @@
                         <div class="footer-widget contact-column">
                             <p>
                                 <i class="fa fa-home mr-5 navcolor"></i> 45 Overlea Blvd.
-                                <br/> Unit #122 East York Town Center
-                                <br/> Toronto Ontario Canada M4H 1C3
+                                <br/> Unit #122 East York Town Centre
+                                <br/> Toronto Ontario M4H 1C3 Canada
                             </p>
                             <p>
-                                <i class="fa fa-phone mr-5 navcolor"></i> 416-892-7778, 647-977-1432
+                                <i class="fa fa-phone mr-5 navcolor"></i> 647.964.3.786, 647.977.3.786
                             </p>
                             <p>
-                                <i class="fa fa-envelope-o mr-5 navcolor"></i> <a href="mailto:aziz@techspot.ca">aziz@techspot.ca</a>
+                                <i class="fa fa-envelope-o mr-5 navcolor"></i> <a href="mailto:info@techspot.ca">info@techspot.ca</a>
                             </p>
                         </div>
                     </div>

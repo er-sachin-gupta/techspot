@@ -3,7 +3,7 @@
         <div class="mainmenu-bg">
 
             <div class="row">
-                <div class="col-md-9 col-sm-12 col-xs-12">
+                <div class="col-md-10 col-sm-12 col-xs-12">
                     <!--Start mainmenu-->
                     <nav class="main-menu">
                         <div class="navbar-collapse collapse clearfix">
@@ -14,6 +14,7 @@
                                 <li><a href="services.php">Services</a> </li>
                                 <li><a href="products.php">Products</a> </li>
                                 <li><a href="small-business-it-consulting.php">Small Business IT Consulting</a> </li>
+                                <li><a href="web-design-development.php">Web Development</a> </li>
                                 <li><a href="contact-us.php">Contact Us</a></li>
                             </ul>
                         </div>
@@ -29,6 +30,7 @@
                                 <li><a href="services.php">Services</a> </li>
                                 <li><a href="products.php">Products</a> </li>
                                 <li><a href="small-business-it-consulting.php">Small Business IT Consulting</a> </li>
+                                <li><a href="web-design-development.php">Web Development</a> </li>
                                 <li><a href="contact-us.php">Contact Us</a></li>
                             </ul>
                         </nav>

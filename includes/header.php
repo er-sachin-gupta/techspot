@@ -17,7 +17,7 @@
                             </div>
                             <div class="text-holder">
                                 <h6>Need help?</h6>
-                                <p>416-892-7778</p>
+                                <p>416.892.77.78</p>
                                 <!--<p>647-977-1432</p>-->
                             </div>
                         </li>
@@ -27,7 +27,7 @@
                             </div>
                             <div class="text-holder mail-holder">
                                 <h6>Mail Us @</h6>
-                                <a href="mailto:aziz@techspot.ca"><p>aziz@techspot.ca</p></a>
+                                <a href="mailto:info@techspot.ca"><p>info@techspot.ca</p></a>
                             </div>
                         </li>
                         <li>
