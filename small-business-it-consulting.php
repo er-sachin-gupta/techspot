@@ -55,10 +55,10 @@
     <!-- Hero Slider Area End -->
 
     <!-- Why Choose Us Area Start -->
-    <?php include 'includes/why-choose-us.php'; ?>
+    <?php //include 'includes/why-choose-us.php'; ?>
     <!-- Why Choose Us Area Ends -->
 
-    <!-- PC Tune Up Area Starts -->
+    <!-- Small Business IT Consulting Starts -->
     <div class="about-us sec-padd-top">
         <div class="container">
             <div class="row">
@@ -76,9 +76,8 @@
 
             <div class="row">
                 <div class="col-md-6 col-sm-12">
-
                     <figure class="about-img">
-                        <img src="images/pc-tuneup.jpg" alt="PC Tune Up">
+                        <img src="images/goals.png" alt="PC Tune Up">
                     </figure>
                 </div>
                 <div class="col-md-6 col-sm-12">
@@ -92,6 +91,9 @@
                                 <li>Keep your system running effectively and consistently.</li>
                                 <li>Increase your productivity.</li>
                                 <li>Maxamise comunication.</li>
+                                <li>Providing Timely and Improved Services.</li>
+                                <li>Customer Satisfaction.</li>
+                                <li>Keeping up with Technology.</li>
                             </ol>
                         </div>
 
@@ -114,7 +116,13 @@
                                 </li>
                             </ul>
                         </div>
+                    </div>
+                </div>
+            </div>
 
+            <div class="row" style="padding-top: 50px;">
+                <div class="col-md-6 col-sm-12">
+                    <div class="about-text">
                         <h2>
                             <span class="thm-color">Our Services Include :</span>
                         </h2>
@@ -124,18 +132,27 @@
                                 <li>Software Consulation and Installation</li>
                                 <li>Software Patch Management</li>
                                 <li>Remote and On Site Servicing</li>
-                                <li>Network Setup</li>
+                                <li>Network Setup / Wireless Network Set-Up</li>
                                 <li>Consumables</li>
                                 <li>Data Backup</li>
+                                <li>Data Recovery</li>
+                                <li>Computer Tune-up </li>
+                                <li>New Computer Set-Up</li>
+                                <li>Computer Repairs - Virus & Spyware Removal</li>
+                                <li>Computer Upgrades</li>
                             </ol>
                         </div>
                     </div>
                 </div>
+                <div class="col-md-6 col-sm-12">
+                    <figure class="about-img">
+                        <img src="images/recovery.png" alt="">
+                    </figure>
+                </div>
             </div>
         </div>
     </div>
-    <!-- PC Tune Up Area Ends -->
-
+    <!-- Small Business IT Consulting Ends -->
 
 
     <!-- Testimonials Area Starts -->
