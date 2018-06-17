@@ -55,87 +55,125 @@
     <!-- Hero Slider Area End -->
 
     <!-- Why Choose Us Area Start -->
-    <?php include 'includes/why-choose-us.php'; ?>
+    <?php // include 'includes/why-choose-us.php'; ?>
     <!-- Why Choose Us Area Ends -->
 
-    <!-- PC Tune Up Area Starts -->
-    <div class="about-us sec-padd-top">
+    <!-- Products Display starts-->
+    <div class="our-services">
         <div class="container">
             <div class="row">
                 <div class="col-md-12 col-sm-12 col-xs-12">
                     <div class="section-title">
-                        <h2>Small Business IT Consulting</h2>
+                        <h2>Products</h2>
                         <div class="text">
-                            <p>Having a reliable and competant service company on hand can save your business money. If your systems are not running properly
-                                ,or they are not running at all, you can't serve your clients effectively. IT problems cost not only cash , but credability,
-                                Let us.</p>
+                            <p>We carry a wide selection of quality products for all budgets. <strong>Video Cards , HeadPhones, Monitors, Micro Phones,
+                                    Wireless Adapters, Hard Drives, Web Cams, Routers,
+                                    MotherBoards, Mouse, Thumb Drives, Cables, Keyboards</strong> and many more. Call to inquire about our selection of used parts for the
+                                economy mined consumer and high end gaming products.</p>
                         </div>
                     </div>
                 </div>
             </div>
-
             <div class="row">
-                <div class="col-md-6 col-sm-12">
-
-                    <figure class="about-img">
-                        <img src="images/pc-tuneup.jpg" alt="PC Tune Up">
-                    </figure>
-                </div>
-                <div class="col-md-6 col-sm-12">
-                    <div class="about-text">
-                        <h2>
-                            <span class="thm-color">Our Goals are to :</span>
-                        </h2>
-                        <div class="text">
-                            <ol>
-                                <li>Give your business the tool to perform effectively.</li>
-                                <li>Keep your system running effectively and consistently.</li>
-                                <li>Increase your productivity.</li>
-                                <li>Maxamise comunication.</li>
-                            </ol>
-                        </div>
-
-                        <div class="fact-counter">
-                            <ul>
-                                <li class="single-fact-counter">
-                                    <span class="ficon"><i class="fa fa-trophy" aria-hidden="true"></i></span><span class="timer" data-from="1" data-to="12" data-speed="5000" data-refresh-interval="50">13</span>
-                                    <i class="fa fa-plus" aria-hidden="true"></i>
-                                    <h3>Years on Market </h3>
-                                </li>
-                                <li class="single-fact-counter">
-                                    <span class="ficon"><i class="fa fa-smile-o" aria-hidden="true"></i></span><span class="timer" data-from="1" data-to="1000" data-speed="5000" data-refresh-interval="50">1000</span>
-                                    <i class="fa fa-plus" aria-hidden="true"></i>
-                                    <h3>Our Happy Clients </h3>
-                                </li>
-                                <li class="single-fact-counter">
-                                    <span class="ficon"><i class="fa fa-television" aria-hidden="true"></i></span><span class="timer" data-from="1" data-to="8650" data-speed="5000" data-refresh-interval="50">8650</span>
-                                    <i class="fa fa-plus" aria-hidden="true"></i>
-                                    <h3>Almost Repaired device</h3>
-                                </li>
-                            </ul>
-                        </div>
-
-                        <h2>
-                            <span class="thm-color">Our Services Include :</span>
-                        </h2>
-                        <div class="text">
-                            <ol>
-                                <li>Computer Networking</li>
-                                <li>Software Consulation and Installation</li>
-                                <li>Software Patch Management</li>
-                                <li>Remote and On Site Servicing</li>
-                                <li>Network Setup</li>
-                                <li>Consumables</li>
-                                <li>Data Backup</li>
-                            </ol>
+                <div class="col-md-4 col-sm-6">
+                    <div class="single-our-service">
+                        <figure class="img-box">
+                            <img src="images/products/monitors.png" alt="Monitor">
+                        </figure>
+                        <div class="center">
+                            <h4>Monitors</h4>
                         </div>
                     </div>
                 </div>
+                <div class="col-md-4 col-sm-6">
+                    <div class="single-our-service">
+                        <figure class="img-box">
+                            <img src="images/products/headphones.png" alt="HeadPhones">
+                        </figure>
+                        <div class="center">
+                            <h4>HeadPhones</h4>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4 col-sm-6">
+                    <div class="single-our-service">
+                        <figure class="img-box">
+                            <img src="images/products/speakers.png" alt="Speakers">
+                        </figure>
+                        <div class="center">
+                            <h4>Speakers</h4>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-4 col-sm-6">
+                    <div class="single-our-service">
+                        <figure class="img-box">
+                            <img src="images/products/router.png" alt="Router">
+                        </figure>
+                        <div class="center">
+                            <h4>Router</h4>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-4 col-sm-6">
+                    <div class="single-our-service">
+                        <figure class="img-box">
+                            <img src="images/products/webcam.png" alt="Webcam">
+                        </figure>
+                        <div class="center">
+                            <h4>WebCam</h4>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-4 col-sm-6">
+                    <div class="single-our-service">
+                        <figure class="img-box">
+                            <img src="images/products/harddrive.png" alt="HardDrive">
+                        </figure>
+                        <div class="center">
+                            <h4>HardDrive</h4>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-4 col-sm-6">
+                    <div class="single-our-service">
+                        <figure class="img-box">
+                            <img src="images/products/keyboard-mouse.png" alt="Keyboard and Mouse">
+                        </figure>
+                        <h4 class="center">Keyboard and Mouse</h4>
+                    </div>
+                </div>
+
+                <div class="col-md-4 col-sm-6">
+                    <div class="single-our-service">
+                        <figure class="img-box">
+                            <img src="images/products/ext-dvd-drive.png" alt="External DVD Drive">
+                        </figure>
+                        <div class="center">
+                            <h4>External DVD Drive</h4>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-4 col-sm-6">
+                    <div class="single-our-service">
+                        <figure class="img-box">
+                            <img src="images/products/ext-hard-drive.png" alt="External HardDrive">
+                        </figure>
+                        <div class="center">
+                            <h4 class="center">External Hard Drive</h4>
+                        </div>
+                    </div>
+                </div>
+
             </div>
         </div>
     </div>
-    <!-- PC Tune Up Area Ends -->
-
+    <!-- Products Display Ends -->
 
 
     <!-- Testimonials Area Starts -->
