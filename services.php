@@ -55,86 +55,179 @@
     <!-- Hero Slider Area End -->
 
     <!-- Why Choose Us Area Start -->
-    <?php include 'includes/why-choose-us.php'; ?>
+    <?php //include 'includes/why-choose-us.php'; ?>
     <!-- Why Choose Us Area Ends -->
 
-    <!-- PC Tune Up Area Starts -->
-    <div class="about-us sec-padd-top">
+    <!-- Services Area Starts -->
+    <div class="our-services our-service-pg">
         <div class="container">
             <div class="row">
                 <div class="col-md-12 col-sm-12 col-xs-12">
                     <div class="section-title">
-                        <h2>Small Business IT Consulting</h2>
+                        <h2>Services We Provide</h2>
                         <div class="text">
-                            <p>Having a reliable and competant service company on hand can save your business money. If your systems are not running properly
-                                ,or they are not running at all, you can't serve your clients effectively. IT problems cost not only cash , but credability,
-                                Let us.</p>
+                            <p class="bold">We Service Pc's and Mac's</p>
                         </div>
                     </div>
                 </div>
             </div>
-
             <div class="row">
-                <div class="col-md-6 col-sm-12">
-
-                    <figure class="about-img">
-                        <img src="images/pc-tuneup.jpg" alt="PC Tune Up">
-                    </figure>
+                <div class="col-md-4 col-sm-6">
+                    <div class="single-our-service">
+                        <figure class="img-box">
+                            <img src="images/system-repair.jpg" alt="Monitor">
+                        </figure>
+                        <div class="center">
+                            <h4>System Repair</h4>
+                        </div>
+                    </div>
                 </div>
-                <div class="col-md-6 col-sm-12">
-                    <div class="about-text">
-                        <h2>
-                            <span class="thm-color">Our Goals are to :</span>
-                        </h2>
-                        <div class="text">
-                            <ol>
-                                <li>Give your business the tool to perform effectively.</li>
-                                <li>Keep your system running effectively and consistently.</li>
-                                <li>Increase your productivity.</li>
-                                <li>Maxamise comunication.</li>
-                            </ol>
+                <div class="col-md-4 col-sm-6">
+                    <div class="single-our-service">
+                        <figure class="img-box">
+                            <img src="images/data-recovery.jpg" alt="HeadPhones">
+                        </figure>
+                        <div class="center">
+                            <h4>Data Recovery</h4>
                         </div>
+                    </div>
+                </div>
+                <div class="col-md-4 col-sm-6">
+                    <div class="single-our-service">
+                        <figure class="img-box">
+                            <img src="images/part-upgrades.jpg" alt="Speakers">
+                        </figure>
+                        <div class="center">
+                            <h4>Part Upgrades</h4>
+                        </div>
+                    </div>
+                </div>
 
-                        <div class="fact-counter">
-                            <ul>
-                                <li class="single-fact-counter">
-                                    <span class="ficon"><i class="fa fa-trophy" aria-hidden="true"></i></span><span class="timer" data-from="1" data-to="12" data-speed="5000" data-refresh-interval="50">13</span>
-                                    <i class="fa fa-plus" aria-hidden="true"></i>
-                                    <h3>Years on Market </h3>
-                                </li>
-                                <li class="single-fact-counter">
-                                    <span class="ficon"><i class="fa fa-smile-o" aria-hidden="true"></i></span><span class="timer" data-from="1" data-to="1000" data-speed="5000" data-refresh-interval="50">1000</span>
-                                    <i class="fa fa-plus" aria-hidden="true"></i>
-                                    <h3>Our Happy Clients </h3>
-                                </li>
-                                <li class="single-fact-counter">
-                                    <span class="ficon"><i class="fa fa-television" aria-hidden="true"></i></span><span class="timer" data-from="1" data-to="8650" data-speed="5000" data-refresh-interval="50">8650</span>
-                                    <i class="fa fa-plus" aria-hidden="true"></i>
-                                    <h3>Almost Repaired device</h3>
-                                </li>
-                            </ul>
+                <div class="col-md-4 col-sm-6">
+                    <div class="single-our-service">
+                        <figure class="img-box">
+                            <img src="images/pc-tuneup-services.jpg" alt="Router">
+                        </figure>
+                        <div class="center">
+                            <h4>Tune Ups</h4>
                         </div>
+                    </div>
+                </div>
 
-                        <h2>
-                            <span class="thm-color">Our Services Include :</span>
-                        </h2>
-                        <div class="text">
-                            <ol>
-                                <li>Computer Networking</li>
-                                <li>Software Consulation and Installation</li>
-                                <li>Software Patch Management</li>
-                                <li>Remote and On Site Servicing</li>
-                                <li>Network Setup</li>
-                                <li>Consumables</li>
-                                <li>Data Backup</li>
-                            </ol>
+                <div class="col-md-4 col-sm-6">
+                    <div class="single-our-service">
+                        <figure class="img-box">
+                            <img src="images/toner-ink-refill.jpg" alt="Webcam">
+                        </figure>
+                        <div class="center">
+                            <h4>Toner and Ink Refill</h4>
                         </div>
+                    </div>
+                </div>
+
+                <div class="col-md-4 col-sm-6">
+                    <div class="single-our-service">
+                        <figure class="img-box">
+                            <img src="images/web-design-development.png" alt="HardDrive">
+                        </figure>
+                        <div class="center">
+                            <h4>Web Design and Development</h4>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+            <div class="row our-services-bg-override">
+                <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                    <div class="accordion-box">
+                        <!--Start single accordion box-->
+                        <div class="accordion accordion-block">
+                            <div class="accord-btn active"><h4>System Repair</h4></div>
+                            <div class="accord-content collapsed">
+                                <p>
+                                    Reinstall your Operating System, Virus and Spyware removal. Reinstall many other application Softwares.
+                                </p>
+                                <ul>
+                                    <li>Windows 10 / Window 8.1 / Windows 8 / Windows 7</li>
+                                    <li>Mac OS</li>
+                                    <li>Linux</li>
+                                </ul>
+                            </div>
+                        </div>
+                        <!--End single accordion box-->
+                        <!--Start single accordion box-->
+                        <div class="accordion accordion-block">
+                            <div class="accord-btn"><h4>Data Recovery</h4></div>
+                            <div class="accord-content">
+                                <p>Recover your important files from your dead hard drive.</p>
+                                <ul>
+                                    <li>Word & Excel files</li>
+                                    <li>E-mail</li>
+                                    <li>Pictures</li>
+                                    <li>Music</li>
+                                    <li>Movies</li>
+                                    <li>More Importantly your Business files and any other</li>
+                                </ul>
+                                <p class="thmcolor">No Data No Charge !!!</p>
+                            </div>
+                        </div>
+                        <!--End single accordion box-->
+                        <!--Start single accordion box-->
+                        <div class="accordion accordion-block">
+                            <div class="accord-btn"><h4>Parts Upgrades</h4></div>
+                            <div class="accord-content">
+                                <p>Upgrading your computer components is on of the most cost effective ways of boosting your systems performance. Let us help you select the most
+                                    effective product in your budget and install it properly.</p>
+                                <ul>
+                                    <li>Ram</li>
+                                    <li>Video Cards</li>
+                                    <li>CPU's</li>
+                                    <li>DVD & Blueray Drives</li>
+                                    <li>Motherboards</li>
+                                </ul>
+                                <p class="thmcolor">We guarantee your satisfaction.</p>
+                            </div>
+                        </div>
+                        <!--End single accordion box-->
+                        <!--Start single accordion box-->
+                        <div class="accordion accordion-block">
+                            <div class="accord-btn"><h4>Tune Ups</h4></div>
+                            <div class="accord-content">
+                                <p>The most common cause of poor computer performance, is spyware and malware. These resource robbing program can
+                                    often be installed along with downloaded programs that you have given permission to install on your computer.
+                                    our tune up packages clean your computer of viruses, spyware and other malicious programs that can slow your computers performance. We also clean
+                                    your system registry, to improve the operating systems performance,and freeup resources. Typically a system can acheive 20-25% improvement in performance, once
+                                    it has been tuned up nd properly set up. This is usually the most cost effective means of speeding up your computer.</p>
+                            </div>
+                        </div>
+                        <!--End single accordion box-->
+                        <!--Start single accordion box-->
+                        <div class="accordion accordion-block">
+                            <div class="accord-btn"><h4>Toner and Ink Refill</h4></div>
+                            <div class="accord-content">
+                                <p>You can save upto 75% on O.E.M cartridges.</p>
+                                <p>We can refill all like Brother, I.B.M, Kyocera, Canon, Lexmark, Samsung, Epson, Ricoh, Dell,
+                                    HP, Panasonic, NEC, Xerox, Sharp, Intex.</p>
+                                <p class="thmcolor">We can refill your print cartridges at a price the manufacturers can't beat</p>
+                            </div>
+                        </div>
+                        <!--End single accordion box-->
+                        <!--Start single accordion box-->
+                        <div class="accordion accordion-block">
+                            <div class="accord-btn"><h4>Web Design / Develpoment</h4></div>
+                            <div class="accord-content">
+                                <p>Affordable Websites for small Business.</p>
+                                <p>We understand best value of your money, We develop website thats meet your needs on the market today. We saved spacious amount of our clients seriously. </p>
+                                <p class="thmcolor">Talk to us today to see how much we can save you.</p>
+                            </div>
+                        </div>
+                        <!--End single accordion box-->
                     </div>
                 </div>
             </div>
         </div>
     </div>
-    <!-- PC Tune Up Area Ends -->
+    <!-- Services Area Area Ends -->
 
 
 
