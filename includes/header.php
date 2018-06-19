@@ -32,7 +32,7 @@
                         </li>
                         <li>
                             <div class="link_btn float_right">
-                                <a href="../contact-us.php" class="thm-btn bg-clr1">Book an Appointment</a>
+                                <a href="contact-us.php" class="thm-btn bg-clr1">Book an Appointment</a>
                             </div>
                         </li>
                     </ul>

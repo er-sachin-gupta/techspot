@@ -13,7 +13,7 @@
                 <div class="hero-content col-xs-12">
                     <h1 class="wow cusFadeInRight" data-wow-duration=".5s" data-wow-delay="0.5s">New and Used Desktop  <br/> and Laptop Sale </h1>
                     <p class="wow cusFadeInRight" data-wow-duration=".5s" data-wow-delay="1s">We also carry - Monitors, Memory, Keyboards, Headphones and Much More. </p>
-                    <a href="../contact-us.php" class="learn-more wow cusFadeInRight" data-wow-duration=".5s" data-wow-delay="1.5s">Contact</a>
+                    <a href="contact-us.php" class="learn-more wow cusFadeInRight" data-wow-duration=".5s" data-wow-delay="1.5s">Contact</a>
                 </div>
             </div>
         </div>
@@ -26,7 +26,7 @@
                 <div class="hero-content col-xs-12">
                     <h1 class="wow cusFadeInRight" data-wow-duration=".5s" data-wow-delay="0.5s">Save upto 75% on</h1>
                     <p class="wow cusFadeInRight" data-wow-duration=".5s" data-wow-delay="1s">Inkjet and Toner Catridge Refills. </p>
-                    <a href="../contact-us.php" class="learn-more wow cusFadeInRight" data-wow-duration=".5s" data-wow-delay="1.5s">Contact</a>
+                    <a href="contact-us.php" class="learn-more wow cusFadeInRight" data-wow-duration=".5s" data-wow-delay="1.5s">Contact</a>
                 </div>
             </div>
         </div>
@@ -39,7 +39,7 @@
                 <div class="hero-content col-xs-12">
                     <h1 class="wow cusFadeInRight" data-wow-duration=".5s" data-wow-delay="0.5s">Computer Crash</h1>
                     <p class="wow cusFadeInRight" data-wow-duration=".5s" data-wow-delay="1s">We can - Diagnose and Repair the cause of crash, Recover your Data and files, Get your system up and running.</p>
-                    <a href="../contact-us.php" class="learn-more wow cusFadeInRight" data-wow-duration=".5s" data-wow-delay="1.5s">Contact</a>
+                    <a href="contact-us.php" class="learn-more wow cusFadeInRight" data-wow-duration=".5s" data-wow-delay="1.5s">Contact</a>
                 </div>
             </div>
         </div>
