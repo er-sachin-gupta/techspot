@@ -97,6 +97,11 @@
                                     <textarea name="message" placeholder="Your Message.." required=""></textarea>
                                 </div>
                             </div>
+                            <!--<div class="row">
+                                <div class="col-md-12">
+                                    <div class="g-recaptcha" data-sitekey="6LdJel8UAAAAAG5owi3BlaMPyKPWTaCiR9sp0niM"></div>
+                                </div>
+                            </div>-->
                             <div class="row">
                                 <div class="col-md-12">
                                     <input class="thm-btn bg-clr1" type="submit" value="Send">
@@ -227,6 +232,8 @@
     <script src="js/wow.min.js"></script>
     <!-- thm custom script /-->
     <script src="js/custom.js"></script>
+
+    <script src='https://www.google.com/recaptcha/api.js'></script>
 </div>
 </body>
 

@@ -65,11 +65,8 @@
                 <div class="col-md-12 col-sm-12 col-xs-12">
                     <div class="section-title">
                         <h2>Web Design and Development Services</h2>
-                        <div class="text mb-20">
+                        <div class="text mb-40">
                             <p>Looking for a reliable web design company! We can help you to accomplish the custom website design requirements. A greatly designed website is certainly the most important requisite for a business owner, who enters into the online business world and wants to offer 100% satisfaction to his customers.</p>
-                        </div>
-                        <h2 class="thm-color">Our Feat in Web Industry</h2>
-                        <div class="text">
                             <p>If you are also among those business owners, then we render affordable and professional custom web design to let your business grow at a rapid pace. We have team of experts, who are specialized in building websites with logical designs that automatically attract the target customers. We managed to secure a top position in the list of the best web design service provider in Canada by completing around 2100+ clients and rendering satisfactory results for 3200+ projects.
                                 Here are some reasons to Choose Us :</p>
                         </div>
@@ -80,7 +77,7 @@
             <div class="row">
                 <div class="col-md-6 col-sm-12">
                     <figure class="about-img">
-                        <img src="images/goals.png" alt="PC Tune Up">
+                        <img src="images/responsive-web-design-1.png" alt="PC Tune Up">
                     </figure>
                 </div>
                 <div class="col-md-6 col-sm-12">
@@ -102,14 +99,14 @@
                 <div class="col-md-12 col-sm-12">
                     <div class="about-text">
                         <div class="section-title">
-                            <h2>OFFERING WIDE VARIETY OF WEB DESIGN SERVICES, INCLUDING</h2>
+                            <h2>WEB DESIGN SERVICES</h2>
                         </div>
 
                         <div class="text-icon-grid">
                             <div class="text-icon-squared animation animated fadeInUp">
                                 <div class="hover"></div>
                                 <div class="caption">
-                                    <div class="icon-big"><span class="icon icon-people"></span></div>
+                                    <div class="icon-big"><span class="icon fa fa-paint-brush"></span></div>
                                     <h5 class="title" style="height: 28px;">GRAPHIC DESIGN SERVICES</h5>
                                     <div class="text" style="height: 48px;">Pictures speak louder than words and thus, we create graphics that define businesses’ services in the best possible way.</div>
                                 </div>
@@ -117,7 +114,7 @@
                             <div class="text-icon-squared animation animated fadeInUp">
                                 <div class="hover"></div>
                                 <div class="caption">
-                                    <div class="icon-big"><span class="icon icon-technology"></span></div>
+                                    <div class="icon-big"><span class="icon fa fa-tablet"></span></div>
                                     <h5 class="title" style="height: 28px;">RESPONSIVE WEB DESIGN</h5>
                                     <div class="text" style="height: 48px;">
                                         Our professionals have the capability of featuring websites over desktop, smartphones and tables alike with responsive web design services</div>
@@ -126,7 +123,7 @@
                             <div class="text-icon-squared animation animated fadeInUp">
                                 <div class="hover"></div>
                                 <div class="caption">
-                                    <div class="icon-big"><span class="icon icon-email-filled-closed-envelope"></span></div>
+                                    <div class="icon-big"><span class="icon fa fa-television"></span></div>
                                     <h5 class="title" style="height: 28px;">WEB PORTAL DESIGN</h5>
                                     <div class="text" style="height: 48px;">The type and kind of designs for a web portal differ with the kind of business it has. We include all the essentials while providing the services.</div>
                                 </div>
@@ -134,7 +131,7 @@
                             <div class="text-icon-squared animation animated fadeInUp">
                                 <div class="hover"></div>
                                 <div class="caption">
-                                    <div class="icon-big"><span class="icon icon-luxury"></span></div>
+                                    <div class="icon-big"><span class="icon fa fa-spinner"></span></div>
                                     <h5 class="title" style="height: 28px;">DYNAMIC WEB DESIGN</h5>
                                     <div class="text" style="height: 48px;">Blending innovation in the right portion is all that defines our dynamic web design services.</div>
                                 </div>
@@ -142,7 +139,7 @@
                             <div class="text-icon-squared animation animated fadeInUp">
                                 <div class="hover"></div>
                                 <div class="caption">
-                                    <div class="icon-big"><span class="icon icon-signs"></span></div>
+                                    <div class="icon-big"><span class="icon fa fa-pencil"></span></div>
                                     <h5 class="title" style="height: 28px;">CUSTOM WEB DESIGN</h5>
                                     <div class="text" style="height: 48px;">Under the services, the aim is to customized the web design as per the requirement of the clients in the most creative way.</div>
                                 </div>
@@ -150,7 +147,7 @@
                             <div class="text-icon-squared animation animated fadeInUp">
                                 <div class="hover"></div>
                                 <div class="caption">
-                                    <div class="icon-big"><span class="icon icon-science"></span></div>
+                                    <div class="icon-big"><span class="icon fa fa-dot-circle-o"></span></div>
                                     <h5 class="title" style="height: 28px;">STATIC WEBSITE DESIGN</h5>
                                     <div class="text" style="height: 48px;">
                                         Our static web design services endeavor to showcase your business as well as service online that won’t require frequent updates.
@@ -160,7 +157,7 @@
                             <div class="text-icon-squared animation animated fadeInUp">
                                 <div class="hover"></div>
                                 <div class="caption">
-                                    <div class="icon-big"><span class="icon icon-science"></span></div>
+                                    <div class="icon-big"><span class="icon fa fa-university""></span></div>
                                     <h5 class="title" style="height: 28px;">CORPORATE WEBSITE DESIGN</h5>
                                     <div class="text" style="height: 48px;">
                                         Our corporate clients have some specific requirements to be fulfilled that we accomplish with our corporate website design solutions.
@@ -170,7 +167,7 @@
                             <div class="text-icon-squared animation animated fadeInUp">
                                 <div class="hover"></div>
                                 <div class="caption">
-                                    <div class="icon-big"><span class="icon icon-science"></span></div>
+                                    <div class="icon-big"><span class="icon fa fa-leaf"></span></div>
                                     <h5 class="title" style="height: 28px;">TEMPLATE DESIGN</h5>
                                     <div class="text" style="height: 48px;">
                                         Through our template design services, we concentrate on the details that have been specified by the clients.
@@ -180,7 +177,7 @@
                             <div class="text-icon-squared animation animated fadeInUp">
                                 <div class="hover"></div>
                                 <div class="caption">
-                                    <div class="icon-big"><span class="icon icon-science"></span></div>
+                                    <div class="icon-big"><span class="icon fa fa-lemon-o"></span></div>
                                     <h5 class="title" style="height: 28px;">CUSTOMISED TEMPLATE</h5>
                                     <div class="text" style="height: 48px;">
                                         We customize the designs over the templates prior to developing one to suit specifically the business requirements.
@@ -189,6 +186,36 @@
                             </div>
                         </div>
                     </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="about-us sec-padd-top">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12 col-sm-12 col-xs-12">
+                    <div class="section-title">
+                        <h2>How we cater our Web Design Services</h2>
+                    </div>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-md-6 col-sm-12">
+                    <div class="about-text">
+                        <div class="text">
+                            <p>We completely understand your business category and create a web design, which is according to your site requirements and lets you stand apart from the crowd.</p>
+                            <p><b>Unique brand recognition and identity :</b> Our web designers make amazing designs that can fulfill your dream of having a unique brand recognition and identity.
+                            Knowing that website design is a set of services, we accomplish diverse requirements from a static design to a dynamic website.
+                            For website redesigning requirements, we conduct a deep study on the previous design and create a new one, which complies with the recent web technology standards.</p>
+                            <p><b>E-Commerce Solutions :</b> Having a robust eCommerce website is the foundation of your online retail business, and we understand the importance  of utilizing the latest technology to increase your profitability. Our eCommerce solutions offer the best in standard features and functionality while remaining completely customizable. Our team will discuss your custom functionality needs and tailor a solution that matches your online brand and eCommerce goals.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6 col-sm-12">
+                    <figure class="about-img">
+                        <img src="images/ecommerce-web-design.png" alt="PC Tune Up">
+                    </figure>
                 </div>
             </div>
         </div>
