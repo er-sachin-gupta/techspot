@@ -73,9 +73,9 @@
             <div class="row">
 
                 <div class="col-md-8">
-                    <h2 class="m-b">Contact Form</h2>
+                    <h2 class="m-b">Contact / Booking Form</h2>
                     <div class="contact-form">
-                        <form id="contact-page-form" name="contact_form" class="default-form" action="mail.php" method="post">
+                        <form id="contact-page-form" name="contact_form" class="default-form" method="post">
                             <div class="row">
                                 <div class="col-md-6">
                                     <input type="text" name="name" value="" placeholder="Your Name*" required="">
@@ -86,7 +86,7 @@
                             </div>
                             <div class="row">
                                 <div class="col-md-6">
-                                    <input type="text" name="phone" value="" placeholder="Phone">
+                                    <input type="text" name="phone" value="" placeholder="Phone*" required="">
                                 </div>
                                 <div class="col-md-6">
                                     <input type="text" name="Subject" value="" placeholder="Subject">
@@ -136,9 +136,9 @@
                                     <span class="icon-technology-1"></span>
                                 </div>
                                 <div class="text-holder">
-                                    <h6>416.892.77.78</h6>
-                                    <h6>647.964.3.786</h6>
-                                    <h6>647.977.3.786</h6>
+                                    <h6>(416)-892-7778</h6>
+                                    <h6>(647)-964-3786</h6>
+                                    <h6>(647)-977-3786</h6>
                                 </div>
                             </li>
                             <li>
@@ -234,6 +234,26 @@
     <script src="js/custom.js"></script>
 
     <script src='https://www.google.com/recaptcha/api.js'></script>
+
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $("#contact-page-form").submit(function (e) {
+                e.preventDefault(); // avoid to execute the actual submit of form.
+                var url = "mail.php"; // the script where you handle the form input.
+                $.ajax({
+                    type: "POST",
+                    url: url,
+                    data: $("form").serialize(), // serializes the form's elements.
+                    success: function (data) {
+                        alert(data); // show response from the php script.
+                        $("#contact-page-form")[0].reset();
+                    }, error: function (data) {
+                        alert(data);
+                    }
+                });
+            });
+        });
+    </script>
 </div>
 </body>
 

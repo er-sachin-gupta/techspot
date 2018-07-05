@@ -24,23 +24,26 @@
         $recipient = "sgs.engineer@yahoo.co.in";
 
         // Set the email subject.
-        $subject = "New contact from $name";
+        $subject = "Techspot.ca - New Message from $name";
 
         // Build the email content.
-        $email_content = "Name: $name\n";
-        $email_content .= "Email: $email\n\n";
-        $email_content .= "Message:\n$message\n";
-        $email_content .= "Phone:\n$phone\n";
-        $email_content .= "Subject:\n$Subject\n";
+        $email_content = "Following Message is recieved : \n\n";
+        $email_content .= "Name: $name \n\n";
+        $email_content .= "Email: $email \n\n";
+        $email_content .= "Subject: $Subject \n\n";
+        $email_content .= "Phone: $phone \n\n";
+        $email_content .= "Message: $message \n\n";
+        $email_content .= "Thanks !!!";
 
         // Build the email headers.
-        $email_headers = "From: $name $phone $Subject <$email>";
+        //$email_headers = "From: $name $phone $Subject <$email>";
+        $headers = 'From:' . $email . "\r\n";
 
         // Send the email.
-        if (mail($recipient, $email_content, $email_headers)) {
+        if (mail($recipient, $subject, $email_content, $headers)) {
             // Set a 200 (okay) response code.
             http_response_code(200);
-            echo "Thank You! Your message has been sent.";
+            echo "Thank You! Your message has been sent. We will contact you shortly!";
         } else {
             // Set a 500 (internal server error) response code.
             http_response_code(500);

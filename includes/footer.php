@@ -61,7 +61,7 @@
                                 <br/> Toronto Ontario M4H 1C3 Canada
                             </p>
                             <p>
-                                <i class="fa fa-phone mr-5 navcolor"></i> 647.964.3.786, 647.977.3.786
+                                <i class="fa fa-phone mr-5 navcolor"></i> (647)-964-3786, (647)-977-3786
                             </p>
                             <p>
                                 <i class="fa fa-envelope-o mr-5 navcolor"></i> <a href="mailto:info@techspot.ca">info@techspot.ca</a>
